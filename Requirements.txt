@@ -1,0 +1,7 @@
+colorama
+sys
+os
+time
+webbrowser
+pyautogui
+faker
